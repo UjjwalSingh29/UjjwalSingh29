@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UjjwalSingh29
-- 👀 I’m interested in Web Dev, ethical hacking, cyber forensics.
-- 🌱 I’m currently learning Eyhical Hacking
+- 👀 I’m interested in Web Dev, Machine learning and Artifical Intellengence.
+- 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Through email ds10708090@gmail.com
 
 <!---
